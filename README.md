@@ -14,7 +14,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
   />
   
-  <img height="180em" src="https://github-readme-stts.vercel.app/api/top-langs/?username=DiegoDSousa&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stts.vercel.app/api/top-langs/?username=DiegoDSousa&layout=compact&langs_count=16&count_private=true&theme=dark">
   </picture>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDSousa&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html"/>
